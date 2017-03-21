@@ -1,0 +1,2 @@
+Essa é a linha #1 do bar.txt
+Linha #2
